@@ -278,7 +278,7 @@ nav {
   height: 330px;
   width: 100%;
   margin-top: 25px;
-  background: url(Pictures/background.jpg);
+  background: url(background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -414,7 +414,7 @@ color: white;
 .coupleWear {
   height: 400px;
   width: 47%;
-  background: url(/Pictures/girlshopping.jpg) center;
+  background: url(girlshopping.jpg) center;
   background-size: cover;
 }
 .coupleWeartext {
@@ -448,7 +448,7 @@ color: white;
 .upcomingSale {
   height: 400px;
   width: 46%;
-  background: url(/Pictures/clothesline.jpg) center no-repeat;
+  background: url(clothesline.jpg) center no-repeat;
   background-size: cover;
 }
 .upcomingSaletext {
@@ -498,7 +498,7 @@ color: white;
 .seasonalSale {
   height: 400px;
   width: 30%;
-  background: url(/Pictures/8a132a5db600ab1437a2c6ee17fc0886.jpg) top;
+  background: url(8a132a5db600ab1437a2c6ee17fc0886.jpg) top;
   background-size: cover;
 }
 .seasonalSaletext {
@@ -526,13 +526,13 @@ color: white;
 .buyOffer {
   height: 400px;
   width: 30%;
-  background: url(/Pictures/jewelery.jpg) top;
+  background: url(jewelery.jpg) top;
   background-size: cover;
 }
 .t-shirts {
   height: 400px;
   width: 30%;
-  background: url(/Pictures/couple.jpg) center;
+  background: url(couple.jpg) center;
   background-size: cover;
 }
 .hovering:hover {
